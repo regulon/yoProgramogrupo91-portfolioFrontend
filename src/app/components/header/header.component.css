@@ -1,0 +1,13 @@
+input.ng-invalid {
+    background-color:pink;
+}
+input.ng-valid {
+    background-color:lightgreen;
+}
+.foto{
+    border: 3px solid white;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 410px;
+    margin-left: 50px;
+}
